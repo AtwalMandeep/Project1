@@ -31,6 +31,7 @@ Technology to use
 2)Spark
 3)Scala
 4)sql
+5)hql
 
 All the quaries should be and app  with menu
 
